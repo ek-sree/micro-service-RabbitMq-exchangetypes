@@ -1,3 +1,5 @@
 /work_queue/node_modules
 
 /fanout/node_modules
+
+/direct/node_modules
