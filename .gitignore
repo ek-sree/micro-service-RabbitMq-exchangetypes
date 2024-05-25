@@ -3,3 +3,5 @@
 /fanout/node_modules
 
 /direct/node_modules
+
+/topic/node_modules
