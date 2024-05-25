@@ -23,4 +23,4 @@ const recieveMsg = async()=>{
     },{noAck:true})
 }
 
-recieveMsg()
+recieveMsg();
